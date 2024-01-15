@@ -1,0 +1,9 @@
+# Alignment
+EAST_MODEL = "frozen_east_text_detection.pb"
+ANGLE_TOLLERANCE  = 0.25
+MIN_CONFIDENCE    = 0.5
+MARGIN_TOLLERANCE = 9
+EAST_WIDTH        = 1280
+EAST_HEIGHT       = 1280
+ALIGN = False
+ALIGN_MODE = 'FAST'
